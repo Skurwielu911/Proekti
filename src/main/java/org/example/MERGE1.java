@@ -71,8 +71,7 @@ public class MERGE1
             listaBoja.add("Narandzasta");
             listaBoja.add("Crna");
             Collections.shuffle(listaBoja);
-            int boja=0;
-            System.out.println("Vasa nasumicna boja je : 2"+listaBoja.get(boja));
+            System.out.println("Vasa nasumicna boja je : 2"+listaBoja.get(0));
         }
         else if (igra==2)
         {

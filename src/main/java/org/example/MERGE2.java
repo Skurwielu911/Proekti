@@ -38,11 +38,6 @@ public class MERGE2
         List<Integer>lista3=new ArrayList<>();
         List<String> listaKvota = getIntegers();
         List<Integer> listaIzvucenihBrojeva = new ArrayList<>();
-
-
-
-
-
         System.out.println("=========================================================================================");
         System.out.println(" ");
         System.out.println("DOBRO DOSLI U GENERATOR NASUMICNIH IGARA ZA LUCKY6 ");
