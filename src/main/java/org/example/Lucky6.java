@@ -4,7 +4,7 @@ import java.util.Collections;
 import java.util.List;
 import java.util.Scanner;
 
-public class MERGE2
+public class Lucky6
 {
     public static void main(String[] args)
     {
@@ -338,7 +338,7 @@ public class MERGE2
         Collections.shuffle(listaIzvucenihBrojeva);
         while(l<35)
         {
-            System.out.println("("+listaKvota.get(l)+")  "+listaIzvucenihBrojeva.get(l));
+                    System.out.println("(" + listaKvota.get(l) + ")   " + listaIzvucenihBrojeva.get(l));
             try {
                 Thread.sleep(brzinaPrikazivanja);
             } catch (InterruptedException e) {
